@@ -1,25 +1,25 @@
 # FB-HACKER
-# Facebook-hacker
+
 FB-HACKER
 
 
 
 
-## install 
+# install 
 
-git clone https://github.com/MR-DARK54/Facebook-hacker
-
-
-
-
-
-
-cd Facebook-hacker
+git clone https://github.com/zqnssiop/Res/issues
 
 
 
 
 
 
-python fb-hacker.py
+cd FB-HACKER
+
+
+
+
+
+
+python FB-HACKER.py
 
